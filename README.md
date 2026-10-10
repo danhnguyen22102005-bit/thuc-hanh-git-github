@@ -1,30 +1,36 @@
-\# Thuc hanh Git va GitHub
+
+
+\# Thực hành Git và GitHub - Bài 2.7
 
 
 
-\## Muc tieu
+\## Mục tiêu
 
-Repository nay duoc tao de thuc hanh cac thao tac Git va GitHub co ban.
-
-
-
-\## Noi dung thuc hanh
-
-\- Tao repository tren GitHub.
-
-\- Clone repository ve may tinh.
-
-\- Chinh sua va quan ly file bang Git.
-
-\- Thuc hien commit, push va pull.
+Repository này được tạo để thực hành các thao tác Git và GitHub cơ bản.
 
 
 
-\## Cong cu su dung
+\## Nội dung thực hành
+
+\- Tạo repository Public trên GitHub.
+
+\- Clone repository về máy tính.
+
+\- Chỉnh sửa và quản lý file bằng Git.
+
+\- Thực hiện commit, push và pull.
+
+\- Theo dõi lịch sử thay đổi của mã nguồn.
+
+
+
+\## Công cụ sử dụng
 
 \- Git
 
+\- Git Bash
+
 \- GitHub
 
-\- Git Bash
+&#x20; 
 
